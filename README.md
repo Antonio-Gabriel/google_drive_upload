@@ -10,3 +10,14 @@ https://www.googleapis.com/drive/v3/files/{id}
 ```
 
 select id in your database for test.
+
+Response :
+
+```
+{
+	"kind": "drive#file",
+	"id": "1E6mAX3FElkkWFSVGKOY6Lmcgga_qg1nN",
+	"name": "filename",
+	"mimeType": "content-type"
+}
+```
